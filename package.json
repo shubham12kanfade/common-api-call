@@ -1,0 +1,28 @@
+{
+  "name": "common-api-call",
+  "version": "0.1.1",
+  "description": "with the help of common-api-call we can all basic api's easily simple we have to import common-api-call package in our project  ",
+  "main": "common-api-call.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubham12kanfade/common-api-call"
+  },
+  "keywords": [
+    "crud-api",
+    "common-api-call",
+    "nodejs crud api",
+    "mongodb crud"
+  ],
+  "author": "shubham",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3"
+  }
+}
